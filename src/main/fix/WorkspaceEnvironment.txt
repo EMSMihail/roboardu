@@ -1,0 +1,5 @@
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\WorkspaceEnvironment.java:96:  Avoid unused local variables such as 'dup'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\WorkspaceEnvironment.java:134:  Avoid using implementation types like 'HashMap'; use the interface instead
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\WorkspaceEnvironment.java:135:  Avoid using implementation types like 'HashMap'; use the interface instead
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\WorkspaceEnvironment.java:177: Avoid using implementation types like 'ArrayList'; use the interface instead
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\WorkspaceEnvironment.java:186: Avoid using implementation types like 'ArrayList'; use the interface instead

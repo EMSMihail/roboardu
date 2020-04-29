@@ -28,19 +28,17 @@ import org.w3c.dom.NodeList;
 import com.mit.blocks.codeblocks.ProcedureOutputManager;
 
 /**
- * A BlockCanvas is a container of Pages and is a scrollable
- * panel.  When a page is added to a BlockCanvas, that
- * particular new page must be added to both the data
- * structure holding the set of pages and the scrollable
- * panel that renders the page.
- *
- * A BlockCanvas is also a PageChangeListener.  When any
- * pages are changed, the Blockcanvas must update itself
- * appropriately to reflect this change.
- *
- * As of the current implementation, the BlockCanvas must
- * have at least one Page when it becomes visible (that is,
- * when its viewable JComponent becomes visible).
+ * @author AdmiralPaw, Ritevi, Aizek
+ * BlockCanvas - это контейнер страниц и прокручиваемая панель. Когда страница 
+ * добавляется в BlockCanvas, эта конкретная новая страница должна быть 
+ * добавлена как в структуру данных, содержащую набор страниц, так и в 
+ * прокручиваемую панель, которая отображает страницу.
+ * A BlockCanvas также является PageChangeListener. При изменении каких-либо 
+ * страниц BlockCanvas должны соответствующим образом обновляться, чтобы 
+ * отразить это изменение. Начиная с текущей реализации, BlockCanvas должен 
+ * иметь по крайней мере одну страницу, когда он становится видимым (то есть 
+ * когда его видимый J-компонент становится видимым).
+ * TODO: "https://drive.google.com/open?id=1uF1PvkxqrZYfvLxOwCtn1lV59ye4m6KB"
  */
 public class BlockCanvas implements PageChangeListener, ISupportMemento {
 

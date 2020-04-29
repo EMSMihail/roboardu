@@ -1,0 +1,6 @@
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\BlockCanvas.java:221:  Useless parentheses.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\BlockCanvas.java:436:  Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\BlockCanvas.java:506:  Useless parentheses.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\BlockCanvas.java:596:  Avoid empty if statements
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\BlockCanvas.java:611:  Document empty method body
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\BlockCanvas.java:614:  Document empty method body

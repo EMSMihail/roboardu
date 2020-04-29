@@ -1,0 +1,21 @@
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:33:     Avoid unused imports such as 'com.mit.blocks.codeblockutil'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:80:     Avoid using implementation types like 'HashSet'; use the interface instead
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:87:     Avoid using implementation types like 'TreeSet'; use the interface instead
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:104:    Use equals() to compare object references.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:192:    Avoid unused local variables such as 'zoom'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:213:    The final local variable name 'level_one' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:271:    The final local variable name 'max_zoom' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:272:    The final local variable name 'min_zoom' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:274:    The local variable name 'button_icon' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:540:    Avoid unused local variables such as 'zoom_panel_x'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:540:    The local variable name 'zoom_panel_x' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:541:    Avoid unused local variables such as 'zoom_panel_y'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:541:    The local variable name 'zoom_panel_y' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:662:    Perhaps 'p' could be replaced by a local variable.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:906:    Useless parentheses.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:966:    Avoid unused local variables such as 'cDX'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:966:    Avoid unused local variables such as 'cDY'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:966:    Use one line for each declaration, it enhances code readability.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:991:    Avoid empty if statements
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:1451:   Document empty method body
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\workspace\Workspace.java:1454:   Document empty method body

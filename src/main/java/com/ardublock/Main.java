@@ -11,10 +11,25 @@ import java.util.logging.Logger;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
+<<<<<<< Updated upstream
+=======
+/**
+ * @author AdmiralPaw, Ritevi, Aizek
+ * Главный класс проекта
+ * TODO: "https://drive.google.com/open?id=15k9f77lt4o9Al4L0PxpZC1ANuMlCyE5e"
+ */
+>>>>>>> Stashed changes
 public class Main {
 
     private OpenblocksFrame openblocksFrame;
 
+<<<<<<< Updated upstream
+=======
+    /**
+     *
+     * @param args 
+     */
+>>>>>>> Stashed changes
     public static void main(String args[]) {
         try {
             UIManager.setLookAndFeel(

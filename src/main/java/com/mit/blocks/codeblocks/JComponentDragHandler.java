@@ -20,21 +20,21 @@ import com.mit.blocks.workspace.Workspace;
 import com.mit.blocks.codeblockutil.GraphicsManager;
 
 /**
- * This class can be used to add dragging capability to any JComponents.
- * It contains the methods and data members needed to support automatic dragging,
- * and contains methods to impliment both MouseListener, MouseMotionListener.
- * In general, any existing JComponent can be made to be draggable simple by
- * creating an instance of JComponentDragHandler (passing a reference to itself)
- * and registering the JComponentDragHandler as the listener for all mouse events.
- *
- * Classes that need similar, but not identical, behavior, or that need to add
- * functionality to the mouse methods here can create an inner class that extends
- * this class.  In this way the inner class can maintain the functionality of
- * JComponentDragHandler while also having access to data members and methods
- * of its enclosing class for the purposes of extension.
- *
- * @author Daniel <djwendel@mit.edu>
- *
+ * @author AdmiralPaw, Ritevi, Aizek
+ * Этот класс можно использовать для добавления возможности перетаскивания в 
+ * любой JComponents. Он содержит методы и элементы данных, необходимые для 
+ * поддержки автоматического перетаскивания, а также содержит методы для 
+ * имплиментации как MouseListener, MouseMotionListener. В общем случае любой 
+ * существующий JComponents можно сделать легко перетаскиваемым, создав экземпляр 
+ * JComponentDragHandler (передавая ссылку на себя) и зарегистрировав 
+ * JComponentDragHandler в качестве прослушивателя для всех событий мыши. 
+ * Классы, которые нуждаются в подобном, но не идентичном поведении, или которые 
+ * должны добавить функциональность к методам мыши здесь, могут создать 
+ * внутренний класс, который расширяет этот класс. Таким образом, внутренний 
+ * класс может поддерживать функциональность JComponentDragHandler также имеет 
+ * доступ к элементам данных и методам его заключительного класса для целей 
+ * расширения.
+ * TODO: "https://drive.google.com/open?id=1D8swXaLHBJG1xC2PHOx56Y48KcKjLj2l"
  */
 public class JComponentDragHandler implements MouseListener, MouseMotionListener {
 

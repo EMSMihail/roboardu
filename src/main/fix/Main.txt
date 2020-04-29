@@ -1,0 +1,7 @@
+C:\roboardu\src\main\java\com\ardublock\Main.java:8:    Avoid unused imports such as 'com.ardublock.ui.Settings'
+C:\roboardu\src\main\java\com\ardublock\Main.java:9:    Avoid unused imports such as 'com.ardublock.ui.TutorialPane'
+C:\roboardu\src\main\java\com\ardublock\Main.java:13:   Avoid unused imports such as 'javax.swing.JLayeredPane'
+C:\roboardu\src\main\java\com\ardublock\Main.java:36:   'catch' branch identical to 'ClassNotFoundException' branch
+C:\roboardu\src\main\java\com\ardublock\Main.java:38:   'catch' branch identical to 'ClassNotFoundException' branch
+C:\roboardu\src\main\java\com\ardublock\Main.java:40:   'catch' branch identical to 'ClassNotFoundException' branch
+catch'и можно заменить мульткетчем catch (Первый кетч | Второй кетч | т.д.)

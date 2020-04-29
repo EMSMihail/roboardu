@@ -1,0 +1,36 @@
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:4:      Avoid unused imports such as 'com.ardublock.ui.listener'
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:48:     Avoid unused private fields such as 'fileToSave'.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:52:     Perhaps 'ffilter' could be replaced by a local variable.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:155:    Ensure that resources like this InputStream object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:156:    Ensure that resources like this InputStream object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:162:    Possible unsafe assignment to a non-final static field in a constructor.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:217:    Avoid empty if statements
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:220:    Ensure that resources like this Formatter object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:222:    Ensure that resources like this Formatter object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:318:    Ensure that resources like this Scanner object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:325:    Avoid empty catch blocks
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:382:    Avoid unused local variables such as 'size'.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:386:    Useless parentheses.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:398:    Avoid empty catch blocks
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:460:    Avoid unused local variables such as 'size'.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:601:    Avoid unused local variables such as 'size'.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:605:    Useless parentheses.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:617:    Avoid empty catch blocks
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:704:    Avoid unused local variables such as 'GlobalPanel'.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:704:    The local variable name 'GlobalPanel' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:722:    Overriding method merely calls super
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:849:    Avoid unused method parameters such as 'recentFiles'.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:852:    Ensure that resources like this Scanner object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:902:    Ensure that resources like this Scanner object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:916:    Ensure that resources like this Formatter object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:924:    This for loop can be replaced by a foreach loop
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:927:    Ensure that resources like this Formatter object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:946:    Ensure that resources like this Formatter object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:963:    Ensure that resources like this Formatter object are closed after use
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1022:   Useless parentheses.
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1038:   A switch statement does not contain a break
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1038:   Switch statements should have a default label
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1077:   Switch statements should have a default label
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1181:   Document empty method body
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1185:   Document empty method body
+C:\roboardu\src\main\java\com\ardublock\ui\OpenblocksFrame.java:1189:   Document empty method body

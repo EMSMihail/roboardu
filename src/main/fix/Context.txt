@@ -1,0 +1,6 @@
+C:\roboardu\src\main\java\com\ardublock\core\Context.java:24:   A class which only has private constructors should be final
+C:\roboardu\src\main\java\com\ardublock\core\Context.java:49:   This final field could be made static
+C:\roboardu\src\main\java\com\ardublock\core\Context.java:103:  Double checked locking is not thread safe in Java.
+C:\roboardu\src\main\java\com\ardublock\core\Context.java:104:  Singleton is not thread safe
+C:\roboardu\src\main\java\com\ardublock\core\Context.java:200:  When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+C:\roboardu\src\main\java\com\ardublock\core\Context.java:301:  Ensure that resources like this FileOutputStream object are closed after use

@@ -67,9 +67,9 @@ import com.mit.blocks.workspace.SearchableContainer;
 import com.mit.blocks.workspace.Workspace;
 
 /**
- * Example entry point to OpenBlock application creation.
- *
- * @author Ricarose Roque
+ * @author AdmiralPaw, Ritevi, Aizek
+ * Класс, который управляет взаимодействиями/настройками с blocks.workspace
+ * TODO: "https://drive.google.com/open?id=1Bt0U58XME_bM8ly9QSAWLzuCYmX9DR6n"
  */
 public class WorkspaceController {
 

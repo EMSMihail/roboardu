@@ -56,9 +56,11 @@ import java.net.URL;
 import org.jfree.ui.tabbedui.VerticalLayout;
 
 /**
- * The Workspace is the main block area, where blocks are manipulated and
- * assembled. This class governs the blocks, the world, the view, drawing,
- * dragging, animating.
+ * @author AdmiralPaw, Ritevi, Aizek
+ * Рабочее пространство - это основная блочная область, где происходит 
+ * манипулирование блоками и их сборка. Этот класс управляет блоками, миром, 
+ * видом, рисованием, перетаскиванием, анимацией.
+ * TODO: "https://drive.google.com/open?id=1ggl5Zje0UeHl_m6tDl35Dn001vxO2s6A"
  */
 public class Workspace extends JLayeredPane implements ISupportMemento, RBParent, ChangeListener, ExplorerListener {
 

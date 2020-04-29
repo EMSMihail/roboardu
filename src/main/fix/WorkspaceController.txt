@@ -1,0 +1,16 @@
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:108: Avoid unused private fields such as 'pom'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:118: Possible unsafe assignment to a non-final static field in a constructor.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:183: 'catch' branch identical to 'ParserConfigurationException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:185: 'catch' branch identical to 'ParserConfigurationException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:224: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:302: The local variable name 'arg_descs' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:304: The local variable name 'arg_desc' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:305: Avoid unused local variables such as 'arg_name'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:305: The local variable name 'arg_name' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:387: 'catch' branch identical to 'TransformerConfigurationException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:443: Avoid unused private methods such as 'validate(Document)'.
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:454: 'catch' branch identical to 'MalformedURLException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:457: 'catch' branch identical to 'MalformedURLException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:505: 'catch' branch identical to 'ParserConfigurationException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:565: 'catch' branch identical to 'ParserConfigurationException' branch
+C:\Users\Depression\roboardu\src\main\java\com\mit\blocks\controller\WorkspaceController.java:567: 'catch' branch identical to 'ParserConfigurationException' branch

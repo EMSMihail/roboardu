@@ -9,16 +9,16 @@ import com.mit.blocks.codeblocks.BlockGenus;
 import com.mit.blocks.renderable.RenderableBlock;
 
 /**
- *
- * For a given {@link Workspace}, a {@link WorkspaceEnvironment} stores a reference to all instances of :
+ * @author AdmiralPaw, Ritevi, Aizek
+ * Для данной {@link Workspace}, 
+ * {@link WorkspaceEnvironment} хранит ссылку на все экземпляры:
  * {@link Block}
  * {@link RenderableBlock}
  * {@link BlockStub}
  * {@link BlockGenus}
- *
- * This enables to separate the components of each workspace, and so to use several at the same time.
- * @author laurentschall
- *
+ * Это позволяет отделить компоненты каждой рабочей области и таким образом 
+ * использовать несколько одновременно.
+ * TODO: "https://drive.google.com/open?id=1TJK8hm1nbMYM3HE-m2zV1KlVbmZGCRfy"
  */
 
 public class WorkspaceEnvironment {

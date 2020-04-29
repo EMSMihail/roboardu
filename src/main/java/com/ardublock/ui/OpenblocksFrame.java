@@ -40,6 +40,14 @@ import java.awt.event.MouseListener;
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 
+<<<<<<< Updated upstream
+=======
+/**
+ * @author AdmiralPaw, Ritevi, Aizek
+ * Класс который генерирует оконную процедуру, графику, кнопки, функции и т.д.
+ * TODO: "https://drive.google.com/open?id=1LCYnmB5SlovjvaGu7eoOPQyiI_UPVvax"
+ */
+>>>>>>> Stashed changes
 public class OpenblocksFrame extends JFrame {
 
     private static final long serialVersionUID = 2841155965906223806L;
